@@ -9,11 +9,13 @@ Python Pandas script to analyze the district-wide standardized test results usin
 Thus, create a Python Pandas script to calculate each of the following:
 
 District Summary
-•	Create a table of the district's key metrics showcasing:
+
+•Create a table of the district's key metrics showcasing:
 Total Schools, Total Students, Total Budget, Average Math Score, Average Reading Score, % Student’s Passing Math
       
 School Summary
-•	Create a table of the school's key metrics showcasing:
+
+•Create a table of the school's key metrics showcasing:
 Total Schools, School Types, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
  
 Top Performing Schools
