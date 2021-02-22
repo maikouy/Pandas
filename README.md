@@ -49,7 +49,8 @@ Create a table that list school performances based on school size in the area of
 Create a table that list school performances based on average Spending Type (Charter vs District) in the area of: Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
     
     
- PyCity Schools Analysis
+
+PyCity Schools Analysis
  
 Per the data findings, all students (9th, 10th, 11th and 12th graders) score higher in their reading test than their math test ranging in the 80% percentile. District schools excelled at being the top 5 performing schools. As a result, 90% of students who attends Charter schools scored significantly higher in both reading and math standardized testing than students who attended District schools.
 
