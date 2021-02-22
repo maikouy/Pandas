@@ -8,38 +8,45 @@ Python Pandas script to analyze the district-wide standardized test results usin
 
 Thus, create a Python Pandas script to calculate each of the following:
 
-District Summary
+•District Summary
 
-•Create a table of the district's key metrics showcasing:
+Create a table of the district's key metrics showcasing:
 Total Schools, Total Students, Total Budget, Average Math Score, Average Reading Score, % Student’s Passing Math
       
-School Summary
+•School Summary
 
-•Create a table of the school's key metrics showcasing:
+Create a table of the school's key metrics showcasing:
 Total Schools, School Types, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
  
-Top Performing Schools
-•	Create a table of the top 5 school's key metrics showcasing:
+•Top Performing Schools
+
+Create a table of the top 5 school's key metrics showcasing:
 School Name, School Type, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
       
-Bottom Performing Schools
-•	Create a table of the bottom 5 school's key metrics showcasing:
+•Bottom Performing Schools
+
+Create a table of the bottom 5 school's key metrics showcasing:
 School Name, School Type, Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
        
-Math Scores by Grade Level 
-•	Create a table that list the average Math Score for students in each grade level (9th Grade, 10th Grade, 11th Grade, 12th Grade) at each school
+•Math Scores by Grade Level 
+
+Create a table that list the average Math Score for students in each grade level (9th Grade, 10th Grade, 11th Grade, 12th Grade) at each school
        
-Reading Scores by Grade Level 
-•	Create a table that list the average Reading Score for students in each grade level (9th Grade, 10th Grade, 11th Grade, 12th Grade) at each school
+•Reading Scores by Grade Level 
+
+Create a table that list the average Reading Score for students in each grade level (9th Grade, 10th Grade, 11th Grade, 12th Grade) at each school
     
-Scores by School Spending
-•	Create a table that list school performances based on average Spending Ranges (per Student) in the area of: Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
+•Scores by School Spending
+
+Create a table that list school performances based on average Spending Ranges (per Student) in the area of: Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
     
-Scores by School Size
-•	Create a table that list school performances based on school size in the area of: Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
+•Scores by School Size
+
+Create a table that list school performances based on school size in the area of: Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
     
-Scores by School Type
-•	Create a table that list school performances based on average Spending Type (Charter vs District) in the area of: Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
+•Scores by School Type
+
+Create a table that list school performances based on average Spending Type (Charter vs District) in the area of: Average Math Score, Average Reading Score, % Student’s Passing Math, % Student’s Passing Reading, % Students Passing Math & Reading
     
     
  PyCity Schools Analysis
